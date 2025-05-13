@@ -1,3 +1,3 @@
-import { pokemon2 } from "./fetch.js";
+import { pokemon } from "./fetch.js";
 
-console.log( await pokemon2())
+console.log( await pokemon())
